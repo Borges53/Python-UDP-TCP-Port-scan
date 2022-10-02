@@ -16,11 +16,8 @@ How to install and run the project
   python main.py -i {{ip}}
 ```
 
-Console output
-
-
 ## Demo
 
-Insert gif or link to demo
+example Console output
 
 ![capture](https://user-images.githubusercontent.com/67323030/193472382-686bf683-1474-4ab3-8dcf-f78cb0c652da.png)
